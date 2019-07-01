@@ -1,0 +1,21 @@
+body {
+    background: blue;
+}
+h1 {
+    color: pink;
+}
+p {
+    font-style: italic;
+}
+div{
+    background: yellowgreen;
+}
+#babybox {
+    width: 50%;
+}
+.box {
+    background: red;
+    border: 1px solid white;
+    width: 50%;
+    margin: auto;
+}
